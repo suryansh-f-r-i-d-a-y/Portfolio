@@ -1,0 +1,9 @@
+.footer-base {
+  position: fixed;
+  bottom: 0;
+  width: calc(100% - 416px);
+  background: rgba(29, 185, 84, 0.6);
+  display: flex;
+  justify-content: center;
+  backdrop-filter: blur(20px);
+}

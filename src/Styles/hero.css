@@ -1,0 +1,8 @@
+.hero-wrapper{
+    color: white;
+    background: rgb(26, 26, 26);
+    width: calc(100% - 416px);
+    min-height:100vh;
+    margin:8px;
+    border-radius: 8px;
+}
